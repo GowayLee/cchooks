@@ -5,6 +5,7 @@
 
 ![Static Badge](https://img.shields.io/badge/claude--code-black?style=flat&logo=claude&logoColor=%23D97757&link=https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code)
 [![Mentioned in Awesome Claude Code](https://awesome.re/mentioned-badge.svg)](https://github.com/hesreallyhim/awesome-claude-code)
+[![Mentioned in awesome-claude-code-hooks](https://awesome.re/mentioned-badge.svg)](https://github.com/ithiria894/awesome-claude-code-hooks)
 ![GitHub Repo stars](https://img.shields.io/github/stars/gowaylee/cchooks)
 
 ![PyPI - Version](https://img.shields.io/pypi/v/cchooks)
